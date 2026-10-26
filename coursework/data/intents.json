@@ -1,0 +1,20 @@
+{
+    "greeting": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good evening"
+    ],
+    "booking": [
+        "i want to book a court",
+        "can i book a game",
+        "i'd like to reserve a court",
+        "i want to get a ticket of a court",
+        "can you book a court for me"
+    ],
+    "identity_set": [
+        "my name is"
+    ]
+
+}
